@@ -1,0 +1,16 @@
+.product {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #d34735;
+    border-radius: 5px;
+    margin: 10px;
+    display: flex;
+}
+
+img {
+    max-height: 10vh;
+    margin: 5px;
+}
+
+.words {
+    margin: 5px 2px;
+}

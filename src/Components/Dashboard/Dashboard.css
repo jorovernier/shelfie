@@ -1,0 +1,7 @@
+.inventory {
+    font-family: 'Open Sans', sans-serif;
+    height: 90vh;
+    width: 40vw;
+    overflow: auto;
+    margin: 20px 0px;
+}

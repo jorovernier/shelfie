@@ -1,0 +1,17 @@
+.header {
+    background-color: #ab2a19;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+}
+
+.header > img {
+    max-height: 45px;
+    height: 45px;
+    margin: 0px 40px;
+}
+
+.header > div {
+    color: white;
+    margin: 0px -30px;
+}
